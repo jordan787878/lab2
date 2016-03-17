@@ -1,5 +1,5 @@
 file.out: bmi.o mainbmi.o
-	g++ -o bmical bmi.o mainbmi.o
+	g++ -o file.out bmi.o mainbmi.o
 
 bmi.o: bmi.h bmi.cpp
 	g++ -c bmi.cpp
