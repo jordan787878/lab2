@@ -1,0 +1,9 @@
+First,construct a Bmi class,using separate code concept,which has 
+height,weight for data member,four mamber function getX2,setX2 
+for excess to data member,a calbmi() to solve for bmi value,
+and a category() to decide the category.
+
+Then using ifstream to read data from the file "bmi",
+call the member function set(height),set(weight),calbmi().
+
+And finally,calling category() to set the category of eacg data.
